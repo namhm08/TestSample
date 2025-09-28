@@ -1,0 +1,6 @@
+@FAS.API_HostAddress = http://localhost:5027
+
+GET {{FAS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
